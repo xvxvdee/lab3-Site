@@ -1,0 +1,22 @@
+/*
+font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+
+
+body{
+     text-align: center;
+     background-color: #fffcff;
+     padding:10px;
+     font-family: 'Raleway', sans-serif;
+
+
+}
+img{
+    width:100px;
+    padding:10px;
+}
+.font {
+    font-family: 'Quicksand', sans-serif;
+
+}
